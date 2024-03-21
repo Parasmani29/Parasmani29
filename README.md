@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Parasmani29](https://github.com/Parasmani29)
 
-- 💬 Ask me about **React, MongoDB and MySQL**
+- 💬 Ask me about **React, HTML, CSS and MySQL**
 
 - 📫 How to reach me **trivedigulshan9454@gmail.com**
 
